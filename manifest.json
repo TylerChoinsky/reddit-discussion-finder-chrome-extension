@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Discussion Finder",
+    "description": "Finds discussions for anime or manga on reddit.",
+    "version": "1.0",
+    "action": {
+        "default_icon": "redditchan.png"
+    },
+    "permissions": ["activeTab", "scripting", "tabs"],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
