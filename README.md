@@ -1,1 +1,1 @@
-# reddit-discussion-finder-chrome-extension
+This extension will search up discussions for your episode of anime or chapter of manga. Requires you to use either 9anime.to or mangadex.org . Just click the extension icon while on an episode or chapter for it to work like magic.
